@@ -4,3 +4,4 @@ export * from './input/Input';
 export * from './login-header/LoginHeader';
 export * from './logo/logo';
 export * from './spinner/spinner';
+export * from './router/router';
