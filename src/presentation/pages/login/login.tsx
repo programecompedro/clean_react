@@ -13,6 +13,7 @@ export const Login: React.FC = () => {
         <h2>Login</h2>
         <Input type="email" name="email" placeholder="Digite sua senha" />
         <Input type="password" name="password" placeholder="Digite sua senha" />
+        <span className={Styles.link}>Criar conta</span>
         <FormStatus />
         <button className={Styles.submit} type="submit">
           Entrar

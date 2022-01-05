@@ -14,16 +14,3 @@
     color: $primaryLight;
   }
 }
-.link {
-  text-align: center;
-  color: $primary;
-  margin-top: 16px;
-  text-transform: lowercase;
-
-  &:hover {
-    cursor: pointer;
-    transition: 0.4s;
-    opacity: 0.9;
-    text-decoration: underline;
-  }
-}
